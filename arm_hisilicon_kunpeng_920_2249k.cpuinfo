@@ -1,0 +1,9 @@
+processor : 0
+model name : HUAWEI Kunpeng 920 2249K
+BogoMIPS : 200.00
+Features : half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt lpae evtstrm
+CPU implementer : 0x48
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0xd01
+CPU revision : 0
