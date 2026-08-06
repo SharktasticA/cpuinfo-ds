@@ -1,0 +1,59 @@
+Foster DP - 1C w/o HT:
+RN80528KC021G0K	1500	15-0-10
+RN80528KC041G0K	2000	15-1-2
+
+Foster MP - 1C w/ HT:
+YF80528KC021512	1500	15-1-1
+
+Prestonia DP - 1C w/ HT:
+RN80532KC033512	1800	15-2-4
+RN80532KC080512	3000	15-2-7
+RK80532KE083512	3067	15-2-9
+
+Gallatin DP - 1C w/ HT:
+RK80532KE0881M	3200	15-2-5
+
+Gallatin MP - 1C w/ HT:
+RN80532KC0371M	1900	15-2-2
+RN80532KC0411M	2000	15-2-5
+RN80532KC0492M	2200	15-2-4
+RN80532KC0804M	3000	15-2-6
+
+Nocona DP - 1C w/ HT:
+RK80546KG1041M	3600	15-3-4
+
+Cranford MP - 1C w/ HT:
+RK80546KF1071M	3667	15-4-1
+
+Potomac MP - 1C w/ HT:
+-
+
+Irwindale DP - 1C w/ HT:
+RK80546KG0882MM	3200	15-4-10
+RK80546KG1122MM	3800	15-4-3
+
+Paxville DP - 2C w/ HT:
+NE80551KG0724MM	2800	15-4-8
+
+Paxville MP (7000) - 2C w/ HT:
+NE80560K*0804MH	3000	15-4-8
+
+Dempsey DP (5000) - 2C w/ HT:
+HH80555QH0884M	3200	15-6-4
+HH80555KH0994M	3467	15-6-2
+HH80555KH1094M	3733	15-6-8
+
+Tulsa MP (7100) - 2C w/ HT:
+euriion/sysinfo/master/sysinfo	15-6-8
+
+Findings
+* Family 15
+	* Intel Xeon
+		* Models 0 and 1 constitute 180nm - Foster DP, Foster MP
+		* Model 2 constitutes 130nm - Prestonia DP, Gallatin DP, Gallatin MP
+		* Model 3 is unique to Nocona DP
+		* Model 4 constitutes Cranford MP, Irwindale DP, Paxville DP, Paxville MP
+			* Steppings 3 and 10 are unique to Irwindale DP
+			* Stepping 8 constitutes Paxville DP, Paxville MP
+				* Paxville DP is only available as 2.8GHz; no Paxville MP has the same speed
+		* Model 6 constitutes Dempsey DP, Tulsa MP
