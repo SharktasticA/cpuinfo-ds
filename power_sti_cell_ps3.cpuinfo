@@ -1,0 +1,13 @@
+processor	: 0
+cpu		: Cell Broadband Engine, altivec supported
+clock		: 3192.000000MHz
+revision	: 33.0 (pvr 0070 2100)
+
+processor	: 1
+cpu		: Cell Broadband Engine, altivec supported
+clock		: 3192.000000MHz
+revision	: 33.0 (pvr 0070 2100)
+
+timebase	: 79800000
+platform	: PS3
+model		: SonyPS3
