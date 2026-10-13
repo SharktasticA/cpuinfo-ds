@@ -7,11 +7,11 @@ stepping	: 11
 fdiv_bug	: no
 f00f_bug	: no
 coma_bug	: no
-fpu		: no
-fpu_exception	: no
+fpu		: yes
+fpu_exception	: yes
 cpuid level	: 1
 wp		: yes
-flags		: vme cpuid
+flags		: fpu vme cpuid
 bugs		: itlb_multihit
 bogomips	: 32.97
 clflush size	: 32
