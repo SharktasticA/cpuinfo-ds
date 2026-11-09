@@ -1,0 +1,51 @@
+processor : 0
+vendor_id : CentaurHauls
+cpu family : 6
+model : 15
+model name : VIA Nano X2 L4350 @ 1.6+ GHz
+stepping : 12
+cpu MHz : 1733.418
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id : 0
+cpu cores : 2
+apicid : 0
+initial apicid : 0
+fpu : yes
+fpu_exception : yes
+cpuid level : 10
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon rep_good nopl cpuid pni monitor vmx est tm2 ssse3 cx16 xtpr sse4_1 popcnt rng rng_en ace ace_en ace2 phe phe_en pmm pmm_en lahf_lm pti tpr_shadow vnmi ida
+bugs : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs
+bogomips : 3466.83
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical, 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : CentaurHauls
+cpu family : 6
+model : 15
+model name : VIA Nano X2 L4350 @ 1.6+ GHz
+stepping : 12
+cpu MHz : 1733.418
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id : 2
+cpu cores : 2
+apicid : 2
+initial apicid : 2
+fpu : yes
+fpu_exception : yes
+cpuid level : 10
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon rep_good nopl cpuid pni monitor vmx est tm2 ssse3 cx16 xtpr sse4_1 popcnt rng rng_en ace ace_en ace2 phe phe_en pmm pmm_en lahf_lm pti tpr_shadow vnmi ida
+bugs : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs
+bogomips : 3466.83
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical, 48 bits virtual
+power management:

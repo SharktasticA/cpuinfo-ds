@@ -1,0 +1,59 @@
+processor : 0
+vendor_id : AuthenticAMD
+cpu family : 20
+model : 2
+model name : AMD E1-1200 APU with Radeon(tm) HD Graphics
+stepping : 0
+microcode : 0x500010d
+cpu MHz : 1227.471
+cache size : 512 KB
+physical id : 0
+siblings : 2
+core id : 0
+cpu cores : 2
+apicid : 0
+initial apicid : 0
+fdiv_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 6
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nonstop_tsc cpuid extd_apicid aperfmperf pni monitor ssse3 cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch ibs skinit wdt hw_pstate retpoline retpoline_amd rsb_ctxsw vmmcall arat npt lbrv svm_lock nrip_save pausefilter
+bugs : fxsave_leak sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips : 2795.02
+clflush size : 64
+cache_alignment : 64
+address sizes : 36 bits physical, 48 bits virtual
+power management: ts ttp tm stc 100mhzsteps hwpstate
+
+processor : 1
+vendor_id : AuthenticAMD
+cpu family : 20
+model : 2
+model name : AMD E1-1200 APU with Radeon(tm) HD Graphics
+stepping : 0
+microcode : 0x500010d
+cpu MHz : 861.042
+cache size : 512 KB
+physical id : 0
+siblings : 2
+core id : 1
+cpu cores : 2
+apicid : 1
+initial apicid : 1
+fdiv_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 6
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nonstop_tsc cpuid extd_apicid aperfmperf pni monitor ssse3 cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch ibs skinit wdt hw_pstate retpoline retpoline_amd rsb_ctxsw vmmcall arat npt lbrv svm_lock nrip_save pausefilter
+bugs : fxsave_leak sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips : 2795.02
+clflush size : 64
+cache_alignment : 64
+address sizes : 36 bits physical, 48 bits virtual
+power management: ts ttp tm stc 100mhzsteps hwpstate

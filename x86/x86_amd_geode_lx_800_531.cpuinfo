@@ -1,0 +1,28 @@
+processor : 0
+vendor_id : AuthenticAMD
+cpu family : 5
+model : 10
+model name : Geode(TM) Integrated Processor by AMD PCS
+stepping : 2
+cpu MHz : 531.290
+cache size : 128 KB
+physical id : 0
+siblings : 1
+core id : 0
+cpu cores : 1
+apicid : 0
+initial apicid : 0
+fdiv_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 1
+wp : yes
+flags : fpu de pse tsc msr cx8 sep pge cmov clflush mmx mmxext 3dnowext 3dnow eagerfpu 3dnowprefetch vmmcall
+bugs : sysret_ss_attrs
+bogomips : 1062.58
+clflush size : 32
+cache_alignment : 32
+address sizes : 32 bits physical, 32 bits virtual
+power management:

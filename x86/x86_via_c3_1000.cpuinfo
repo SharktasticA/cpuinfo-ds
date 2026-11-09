@@ -1,0 +1,27 @@
+processor : 0
+vendor_id : CentaurHauls
+cpu family : 6
+model : 9
+model name : VIA Nehemiah
+stepping : 5
+cpu MHz : 997.000
+physical id : 0
+siblings : 1
+core id : 0
+cpu cores : 1
+apicid : 0
+initial apicid : 0
+fdiv_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 1
+wp : yes
+flags : fpu de pse tsc msr cx8 mtrr pge cmov mmx fxsr sse cpuid rng rng_en
+bugs : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit spectre_v2_user
+bogomips : 1995.43
+clflush size : 32
+cache_alignment : 32
+address sizes : 32 bits physical, 32 bits virtual
+power management:

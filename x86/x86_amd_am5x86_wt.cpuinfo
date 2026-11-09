@@ -18,4 +18,3 @@ clflush size	: 32
 cache_alignment	: 32
 address sizes	: 32 bits physical, 32 bits virtual
 power management:
-
